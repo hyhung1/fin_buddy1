@@ -62,10 +62,10 @@ npm install
 
 #### Install Python Dependencies
 ```bash
-# Using uv (recommended)
+# Using uv (recommended - uses pyproject.toml)
 uv sync
 
-# Or using pip
+# Or using pip (uses requirements.txt)
 pip install -r requirements.txt
 ```
 
