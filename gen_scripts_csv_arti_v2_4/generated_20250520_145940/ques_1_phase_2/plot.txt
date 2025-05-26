@@ -1,0 +1,6 @@
+Plot saved to cumulative_net_profit_top_companies.png
+Plot saved to parent_equity_trend_top_companies.png
+
+--stderr--
+C:\Users\HP\Downloads\excel_bud\fin_buddy\gen_scripts_csv_arti_v2_4\generated_20250520_145940\ques_1_phase_2\plot.py:44: UserWarning: set_ticklabels() should only be used with a fixed number of ticks, i.e. after set_ticks() or using a FixedLocator.
+  ax1.set_xticklabels(companies, rotation=45, ha='right', fontweight='bold', fontsize=12)

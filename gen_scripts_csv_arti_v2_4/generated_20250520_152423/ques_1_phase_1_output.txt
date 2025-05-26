@@ -1,0 +1,5 @@
+Ticker: PLX, Total Net Profit 2019-2023: 14032.41
+Ticker: PVS, Total Net Profit 2019-2023: 4566.90
+Ticker: PVD, Total Net Profit 2019-2023: 783.84
+Ticker: PVC, Total Net Profit 2019-2023: 146.78
+Ticker: PVB, Total Net Profit 2019-2023: 88.87

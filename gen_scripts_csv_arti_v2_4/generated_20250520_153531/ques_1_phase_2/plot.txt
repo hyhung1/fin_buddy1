@@ -1,0 +1,2 @@
+C:\Users\HP\Downloads\excel_bud\fin_buddy\gen_scripts_csv_arti_v2_4\generated_20250520_153531\ques_1_phase_2\plot.py:23: SyntaxWarning: invalid escape sequence '\d'
+  df_plot_melted['Year_Num'] = df_plot_melted['Year'].str.extract('(\d{4})').astype(int)

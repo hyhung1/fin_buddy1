@@ -1,0 +1,14 @@
+
+C:\Users\HP\Downloads\excel_bud\fin_buddy\gen_scripts_csv_arti_v2_4\generated_20250520_144116\ques_1_phase_1.py:80: DeprecationWarning: DataFrameGroupBy.apply operated on the grouping columns. This behavior is deprecated, and in a future version of pandas the grouping columns will be excluded from the operation. Either pass `include_groups=False` to exclude the groupings or explicitly select the grouping columns after groupby to silence this warning.
+  top_companies_per_sector = filtered_df.groupby(sector_col, group_keys=False).apply(
+Traceback (most recent call last):
+  File "C:\Users\HP\Downloads\excel_bud\fin_buddy\gen_scripts_csv_arti_v2_4\generated_20250520_144116\ques_1_phase_1.py", line 108, in <module>
+    result_df = top_companies_per_sector[output_cols_exist].sort_values(
+        by=[sector_col, total_net_profit_col], ascending=[True, False]
+    )
+  File "C:\Users\HP\AppData\Roaming\Python\Python313\site-packages\pandas\core\frame.py", line 7172, in sort_values
+    keys = [self._get_label_or_level_values(x, axis=axis) for x in by]
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Roaming\Python\Python313\site-packages\pandas\core\generic.py", line 1911, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 'Total Net Profit 2019-2023'

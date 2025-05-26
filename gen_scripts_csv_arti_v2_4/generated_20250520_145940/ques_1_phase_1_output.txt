@@ -1,0 +1,72 @@
+Sector: Banks
+  Company: Vietcombank
+  Cumulative Net Profit (2019-2023): 122060.19
+  Parent Equity 2019: 80954.34
+  Parent Equity 2020: 94094.98
+  Parent Equity 2021: 109186.43
+  Parent Equity 2022: 135646.08
+  Parent Equity 2023: 165012.67
+Sector: Banks
+  Company: Techcombank
+  Cumulative Net Profit (2019-2023): 79851.36
+  Parent Equity 2019: 62072.77
+  Parent Equity 2020: 74614.79
+  Parent Equity 2021: 93041.47
+  Parent Equity 2022: 113424.97
+  Parent Equity 2023: 131616.06
+Sector: Banks
+  Company: VietinBank
+  Cumulative Net Profit (2019-2023): 74505.80
+  Parent Equity 2019: 77354.82
+  Parent Equity 2020: 85439.22
+  Parent Equity 2021: 93649.51
+  Parent Equity 2022: 108316.31
+  Parent Equity 2023: 125871.82
+Sector: Food & Beverage
+  Company: Vinamilk
+  Cumulative Net Profit (2019-2023): 50019.53
+  Parent Equity 2019: 29731.26
+  Parent Equity 2020: 33647.12
+  Parent Equity 2021: 35850.11
+  Parent Equity 2022: 32816.52
+  Parent Equity 2023: 35025.74
+Sector: Food & Beverage
+  Company: Masan Group
+  Cumulative Net Profit (2019-2023): 24485.32
+  Parent Equity 2019: 51888.41
+  Parent Equity 2020: 25030.28
+  Parent Equity 2021: 42336.65
+  Parent Equity 2022: 36636.74
+  Parent Equity 2023: 38237.24
+Sector: Food & Beverage
+  Company: SABECO
+  Cumulative Net Profit (2019-2023): 23991.16
+  Parent Equity 2019: 20076.25
+  Parent Equity 2020: 21215.28
+  Parent Equity 2021: 22594.79
+  Parent Equity 2022: 24590.85
+  Parent Equity 2023: 25485.16
+Sector: Real Estate
+  Company: Vinhomes
+  Cumulative Net Profit (2019-2023): 154168.59
+  Parent Equity 2019: 64715.04
+  Parent Equity 2020: 89129.92
+  Parent Equity 2021: 131407.41
+  Parent Equity 2022: 148521.84
+  Parent Equity 2023: 182636.31
+Sector: Real Estate
+  Company: Vincom Retail
+  Cumulative Net Profit (2019-2023): 13735.19
+  Parent Equity 2019: 26953.51
+  Parent Equity 2020: 29335.82
+  Parent Equity 2021: 30650.83
+  Parent Equity 2022: 33424.69
+  Parent Equity 2023: 37826.85
+Sector: Real Estate
+  Company: Novaland
+  Cumulative Net Profit (2019-2023): 13416.06
+  Parent Equity 2019: 24461.07
+  Parent Equity 2020: 31932.15
+  Parent Equity 2021: 41173.11
+  Parent Equity 2022: 44817.73
+  Parent Equity 2023: 45302.85

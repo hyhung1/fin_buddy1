@@ -1,0 +1,7 @@
+Plots saved as net_profit_trend.png and parent_equity_trend.png
+
+--stderr--
+C:\Users\HP\Downloads\excel_bud\fin_buddy\gen_scripts_csv_arti_v2_4\generated_20250520_135342\ques_1_phase_2\plot.py:30: SyntaxWarning: invalid escape sequence '\d'
+  df_net_profit_long['Year'] = df_net_profit_long['Year'].str.extract('(\d+)').astype(int)
+C:\Users\HP\Downloads\excel_bud\fin_buddy\gen_scripts_csv_arti_v2_4\generated_20250520_135342\ques_1_phase_2\plot.py:35: SyntaxWarning: invalid escape sequence '\d'
+  df_parent_equity_long['Year'] = df_parent_equity_long['Year'].str.extract('(\d+)').astype(int)

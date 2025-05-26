@@ -1,0 +1,41 @@
+C:\Users\HP\Downloads\excel_bud\fin_buddy\gen_scripts_csv_arti_v2_4\generated_20250520_134543\ques_1_phase_2\plot.py:60: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  values = row[years].tolist()
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Roaming\Python\Python313\site-packages\pandas\core\indexing.py", line 1714, in _get_list_axis
+    return self.obj._take_with_is_copy(key, axis=axis)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Roaming\Python\Python313\site-packages\pandas\core\generic.py", line 4153, in _take_with_is_copy
+    result = self.take(indices=indices, axis=axis)
+  File "C:\Users\HP\AppData\Roaming\Python\Python313\site-packages\pandas\core\generic.py", line 4133, in take
+    new_data = self._mgr.take(
+        indices,
+        axis=self._get_block_manager_axis(axis),
+        verify=True,
+    )
+  File "C:\Users\HP\AppData\Roaming\Python\Python313\site-packages\pandas\core\internals\managers.py", line 891, in take
+    indexer = maybe_convert_indices(indexer, n, verify=verify)
+  File "C:\Users\HP\AppData\Roaming\Python\Python313\site-packages\pandas\core\indexers\utils.py", line 282, in maybe_convert_indices
+    raise IndexError("indices are out-of-bounds")
+IndexError: indices are out-of-bounds
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\HP\Downloads\excel_bud\fin_buddy\gen_scripts_csv_arti_v2_4\generated_20250520_134543\ques_1_phase_2\plot.py", line 60, in <module>
+    values = row[years].tolist()
+             ~~~^^^^^^^
+  File "C:\Users\HP\AppData\Roaming\Python\Python313\site-packages\pandas\core\series.py", line 1153, in __getitem__
+    return self._get_with(key)
+           ~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\HP\AppData\Roaming\Python\Python313\site-packages\pandas\core\series.py", line 1191, in _get_with
+    return self.iloc[key]
+           ~~~~~~~~~^^^^^
+  File "C:\Users\HP\AppData\Roaming\Python\Python313\site-packages\pandas\core\indexing.py", line 1191, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Roaming\Python\Python313\site-packages\pandas\core\indexing.py", line 1743, in _getitem_axis
+    return self._get_list_axis(key, axis=axis)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Roaming\Python\Python313\site-packages\pandas\core\indexing.py", line 1717, in _get_list_axis
+    raise IndexError("positional indexers are out-of-bounds") from err
+IndexError: positional indexers are out-of-bounds

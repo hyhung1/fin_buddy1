@@ -1,0 +1,4 @@
+  File "C:\Users\HP\Downloads\excel_bud\fin_buddy\gen_scripts_csv_arti_v2_4\generated_20250520_141905\ques_1_phase_2\plot.py", line 28
+    }
+    ^
+SyntaxError: closing parenthesis '}' does not match opening parenthesis '[' on line 9

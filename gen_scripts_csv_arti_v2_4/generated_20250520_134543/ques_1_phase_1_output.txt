@@ -1,0 +1,275 @@
+Sector: Automobiles & Parts
+Company: Da Nang Rubber
+Net Profit: 2019: 250.53 2020: 256.32 2021: 290.83 2022: 307.18 2023: 246.33
+Parent Equity: 2019: 1632.09 2020: 1687.29 2021: 1773.93 2022: 1909.76 2023: 1851.38
+--------------------
+Sector: Automobiles & Parts
+Company: SAVICO
+Net Profit: 2019: 233.33 2020: 224.88 2021: 211.33 2022: 586.04 2023: 44.43
+Parent Equity: 2019: 1639.81 2020: 1743.13 2021: 1870.00 2022: 2455.67 2023: 2439.93
+--------------------
+Sector: Automobiles & Parts
+Company: Hoang Huy Investment Services
+Net Profit: 2019: 195.26 2020: 286.39 2021: 236.40 2022: 224.61 2023: 351.85
+Parent Equity: 2019: 3432.06 2020: 3742.10 2021: 3942.04 2022: 4166.14 2023: 4501.28
+--------------------
+Sector: Banks
+Company: Vietcombank
+Net Profit: 2019: 18597.34 2020: 18472.52 2021: 22016.83 2022: 29919.05 2023: 33054.45
+Parent Equity: 2019: 80954.34 2020: 94094.98 2021: 109186.43 2022: 135646.08 2023: 165012.67
+--------------------
+Sector: Banks
+Company: Techcombank
+Net Profit: 2019: 10226.21 2020: 12582.47 2021: 18415.38 2022: 20436.43 2023: 18190.87
+Parent Equity: 2019: 62072.77 2020: 74614.79 2021: 93041.47 2022: 113424.97 2023: 131616.06
+--------------------
+Sector: Banks
+Company: VietinBank
+Net Profit: 2019: 9476.99 2020: 13785.21 2021: 14215.34 2022: 16983.64 2023: 20044.62
+Parent Equity: 2019: 77354.82 2020: 85439.22 2021: 93649.51 2022: 108316.31 2023: 125871.82
+--------------------
+Sector: Basic Resources
+Company: Hoa Phat Group
+Net Profit: 2019: 7578.25 2020: 13506.16 2021: 34520.95 2022: 8444.43 2023: 6800.39
+Parent Equity: 2019: 47786.64 2020: 59219.79 2021: 90780.63 2022: 96112.94 2023: 102836.42
+--------------------
+Sector: Basic Resources
+Company: Hoa Sen Group
+Net Profit: 2019: 1153.01 2020: 4313.49 2021: 4313.49 2022: 251.32 2023: 30.06
+Parent Equity: 2019: 6584.12 2020: 10831.79 2021: 10831.79 2022: 10883.57 2023: 10780.17
+--------------------
+Sector: Basic Resources
+Company: Nam Kim Steel
+Net Profit: 2019: 47.33 2020: 295.27 2021: 2225.26 2022: -124.68 2023: 117.41
+Parent Equity: 2019: 3016.81 2020: 3181.02 2021: 5723.20 2022: 5319.65 2023: 5423.07
+--------------------
+Sector: Chemicals
+Company: Viet Nam Rubber Group
+Net Profit: 2019: 3833.36 2020: 5076.35 2021: 5340.05 2022: 4804.15 2023: 3372.86
+Parent Equity: 2019: 50596.55 2020: 51430.65 2021: 51940.04 2022: 53515.56 2023: 54977.20
+--------------------
+Sector: Chemicals
+Company: Ducgiang Chemicals
+Net Profit: 2019: 571.56 2020: 948.07 2021: 2513.78 2022: 6036.98 2023: 3241.66
+Parent Equity: 2019: 3451.56 2020: 4067.43 2021: 6332.00 2022: 10833.65 2023: 12026.94
+--------------------
+Sector: Chemicals
+Company: Petrovietnam Fertilizer and Chemicals
+Net Profit: 2019: 388.86 2020: 701.62 2021: 3171.52 2022: 5584.89 2023: 529.82
+Parent Equity: 2019: 8161.44 2020: 8247.50 2021: 10713.16 2022: 14017.44 2023: 11545.20
+--------------------
+Sector: Construction & Materials
+Company: VICOSTONE
+Net Profit: 2019: 1410.11 2020: 1428.42 2021: 1772.06 2022: 1148.70 2023: 846.38
+Parent Equity: 2019: 3448.69 2020: 3857.82 2021: 4874.20 2022: 4868.74 2023: 4985.82
+--------------------
+Sector: Construction & Materials
+Company: Viglacera Corporation
+Net Profit: 2019: 759.37 2020: 667.31 2021: 1279.08 2022: 1913.04 2023: 1162.24
+Parent Equity: 2019: 7055.08 2020: 7024.12 2021: 8356.84 2022: 9085.43 2023: 9524.32
+--------------------
+Sector: Construction & Materials
+Company: Vinaconex Group
+Net Profit: 2019: 786.63 2020: 1690.32 2021: 519.93 2022: 930.76 2023: 396.44
+Parent Equity: 2019: 7738.32 2020: 7163.20 2021: 7627.62 2022: 9930.66 2023: 10241.05
+--------------------
+Sector: Financial Services
+Company: SSI Securities
+Net Profit: 2019: 907.10 2020: 1255.93 2021: 2695.07 2022: 1697.69 2023: 2294.47
+Parent Equity: 2019: nan 2020: nan 2021: nan 2022: nan 2023: nan
+--------------------
+Sector: Financial Services
+Company: VNDIRECT
+Net Profit: 2019: 382.66 2020: 692.77 2021: 2382.92 2022: 1220.28 2023: 2022.25
+Parent Equity: 2019: nan 2020: nan 2021: nan 2022: nan 2023: nan
+--------------------
+Sector: Financial Services
+Company: Vietcap Securities
+Net Profit: 2019: 693.18 2020: 768.91 2021: 1498.72 2022: 868.98 2023: 491.90
+Parent Equity: 2019: nan 2020: nan 2021: nan 2022: nan 2023: nan
+--------------------
+Sector: Food & Beverage
+Company: Vinamilk
+Net Profit: 2019: 10554.33 2020: 11235.73 2021: 10632.54 2022: 8577.58 2023: 9019.35
+Parent Equity: 2019: 29731.26 2020: 33647.12 2021: 35850.11 2022: 32816.52 2023: 35025.74
+--------------------
+Sector: Food & Beverage
+Company: Masan Group
+Net Profit: 2019: 6364.62 2020: 1395.01 2021: 10101.38 2022: 4754.38 2023: 1869.93
+Parent Equity: 2019: 51888.41 2020: 25030.28 2021: 42336.65 2022: 36636.74 2023: 38237.24
+--------------------
+Sector: Food & Beverage
+Company: SABECO
+Net Profit: 2019: 5370.15 2020: 4936.85 2021: 3929.31 2022: 5499.80 2023: 4255.05
+Parent Equity: 2019: 20076.25 2020: 21215.28 2021: 22594.79 2022: 24590.85 2023: 25485.16
+--------------------
+Sector: Health Care
+Company: DHG Pharma
+Net Profit: 2019: 631.26 2020: 738.53 2021: 776.28 2022: 988.45 2023: 1050.66
+Parent Equity: 2019: 3377.55 2020: 3568.04 2021: 3793.14 2022: 4291.54 2023: 4852.93
+--------------------
+Sector: Health Care
+Company: Traphaco
+Net Profit: 2019: 170.59 2020: 216.75 2021: 264.47 2022: 293.52 2023: 285.27
+Parent Equity: 2019: 1118.03 2020: 1172.45 2021: 1267.53 2022: 1380.56 2023: 1489.05
+--------------------
+Sector: Health Care
+Company: Imexpharm Pharmaceutical
+Net Profit: 2019: 162.39 2020: 209.70 2021: 189.09 2022: 223.54 2023: 299.56
+Parent Equity: 2019: 1558.89 2020: 1730.49 2021: 1794.41 2022: 1894.45 2023: 2084.58
+--------------------
+Sector: Industrial Goods & Services
+Company: Refrigeration Electrical Engineering
+Net Profit: 2019: 1719.92 2020: 1713.50 2021: 2135.41 2022: 3515.38 2023: 2786.66
+Parent Equity: 2019: 11101.67 2020: 12212.65 2021: 16357.88 2022: 19203.69 2023: 20770.10
+--------------------
+Sector: Industrial Goods & Services
+Company: Gelex Group JSC
+Net Profit: 2019: 852.47 2020: 979.65 2021: 1666.36 2022: 1531.76 2023: 863.88
+Parent Equity: 2019: 8677.04 2020: 8215.19 2021: 20497.80 2022: 21043.38 2023: 21223.76
+--------------------
+Sector: Industrial Goods & Services
+Company: Gemadept
+Net Profit: 2019: 613.57 2020: 440.48 2021: 720.56 2022: 1161.29 2023: 2533.93
+Parent Equity: 2019: 6567.26 2020: 6594.93 2021: 7044.62 2022: 7947.76 2023: 9732.37
+--------------------
+Sector: Insurance
+Company: Bao Viet Group
+Net Profit: 2019: 1242.70 2020: 1649.85 2021: 2018.41 2022: 1625.61 2023: 1859.99
+Parent Equity: 2019: nan 2020: nan 2021: nan 2022: nan 2023: nan
+--------------------
+Sector: Insurance
+Company: PVI
+Net Profit: 2019: 701.80 2020: 848.56 2021: 870.63 2022: 873.18 2023: 1006.50
+Parent Equity: 2019: nan 2020: nan 2021: nan 2022: nan 2023: nan
+--------------------
+Sector: Insurance
+Company: Vietnam Reinsurance
+Net Profit: 2019: 286.62 2020: 311.07 2021: 347.06 2022: 378.38 2023: 423.44
+Parent Equity: 2019: nan 2020: nan 2021: nan 2022: nan 2023: nan
+--------------------
+Sector: Media
+Company: Hanoi Education Development
+Net Profit: 2019: 45.36 2020: 49.88 2021: 49.50 2022: 74.72 2023: 71.85
+Parent Equity: 2019: 283.02 2020: 307.39 2021: 331.88 2022: 376.60 2023: 416.62
+--------------------
+Sector: Media
+Company: Clever Group
+Net Profit: 2019: 40.67 2020: 39.52 2021: 38.67 2022: 52.68 2023: 22.24
+Parent Equity: 2019: 128.31 2020: 240.19 2021: 269.45 2022: 324.72 2023: 346.17
+--------------------
+Sector: Media
+Company: Phuong Nam education
+Net Profit: 2019: 37.82 2020: 37.67 2021: 38.26 2022: 37.91 2023: 41.20
+Parent Equity: 2019: 220.82 2020: 240.54 2021: 259.31 2022: 276.87 2023: 297.16
+--------------------
+Sector: Oil & Gas
+Company: Petrolimex
+Net Profit: 2019: 4676.56 2020: 1252.57 2021: 3123.73 2022: 1902.23 2023: 3077.32
+Parent Equity: 2019: 25923.32 2020: 24126.40 2021: 28260.19 2022: 27782.61 2023: 29202.11
+--------------------
+Sector: Oil & Gas
+Company: Petroleum Technical Services
+Net Profit: 2019: 995.62 2020: 709.90 2021: 750.71 2022: 1050.66 2023: 1060.01
+Parent Equity: 2019: 12970.75 2020: 12884.12 2021: 12607.76 2022: 13054.80 2023: 13544.22
+--------------------
+Sector: Oil & Gas
+Company: PetroVietNam Drilling & Well
+Net Profit: 2019: 172.17 2020: 183.82 2021: 36.77 2022: -154.86 2023: 545.94
+Parent Equity: 2019: 13968.46 2020: 14042.02 2021: 13831.58 2022: 14078.51 2023: 14898.16
+--------------------
+Sector: Personal & Household Goods
+Company: Phu Nhuan Jewelry
+Net Profit: 2019: 1193.92 2020: 1069.31 2021: 1029.04 2022: 1810.69 2023: 1971.10
+Parent Equity: 2019: 4577.27 2020: 5241.86 2021: 6012.63 2022: 8444.09 2023: 9806.18
+--------------------
+Sector: Personal & Household Goods
+Company: Rang Dong Light and Vacuum Flask
+Net Profit: 2019: 125.17 2020: 336.08 2021: 398.24 2022: 485.83 2023: 584.27
+Parent Equity: 2019: 834.52 2020: 1079.31 2021: 1369.09 2022: 2621.69 2023: 2974.27
+--------------------
+Sector: Personal & Household Goods
+Company: Song Hong Garment
+Net Profit: 2019: 449.85 2020: 231.79 2021: 442.37 2022: 337.69 2023: 245.25
+Parent Equity: 2019: 1235.67 2020: 1442.13 2021: 1495.33 2022: 1718.98 2023: 1809.75
+--------------------
+Sector: Real Estate
+Company: Vinhomes
+Net Profit: 2019: 24319.10 2020: 28206.54 2021: 38948.48 2022: 29161.59 2023: 33532.88
+Parent Equity: 2019: 64715.04 2020: 89129.92 2021: 131407.41 2022: 148521.84 2023: 182636.31
+--------------------
+Sector: Real Estate
+Company: Vincom Retail
+Net Profit: 2019: 2851.93 2020: 2382.31 2021: 1315.01 2022: 2777.13 2023: 4408.81
+Parent Equity: 2019: 26953.51 2020: 29335.82 2021: 30650.83 2022: 33424.69 2023: 37826.85
+--------------------
+Sector: Real Estate
+Company: Novaland
+Net Profit: 2019: 3387.42 2020: 3906.50 2021: 3454.75 2022: 2181.53 2023: 485.86
+Parent Equity: 2019: 24461.07 2020: 31932.15 2021: 41173.11 2022: 44817.73 2023: 45302.85
+--------------------
+Sector: Retail
+Company: Mobile World Investment
+Net Profit: 2019: 3836.24 2020: 3919.87 2021: 4901.43 2022: 4101.71 2023: 167.83
+Parent Equity: 2019: 12143.59 2020: 15481.69 2021: 20378.25 2022: 23932.58 2023: 23359.56
+--------------------
+Sector: Retail
+Company: Digiworld Corporation
+Net Profit: 2019: 163.18 2020: 267.34 2021: 654.90 2022: 683.60 2023: 362.59
+Parent Equity: 2019: 924.85 2020: 1158.59 2021: 1781.28 2022: 2423.28 2023: 2626.85
+--------------------
+Sector: Retail
+Company: Petrovietnam General Services
+Net Profit: 2019: 127.32 2020: 140.17 2021: 311.46 2022: 167.42 2023: 139.00
+Parent Equity: 2019: 1640.32 2020: 1663.17 2021: 1939.73 2022: 2062.41 2023: 2186.26
+--------------------
+Sector: Technology
+Company: FPT Corp
+Net Profit: 2019: 3911.71 2020: 4423.75 2021: 5349.30 2022: 6491.34 2023: 7788.05
+Parent Equity: 2019: 16799.29 2020: 18605.67 2021: 21417.99 2022: 25356.12 2023: 29933.01
+--------------------
+Sector: Technology
+Company: CMC Corporation
+Net Profit: 2019: 218.59 2020: 236.56 2021: 312.96 2022: 355.54 2023: 390.90
+Parent Equity: 2019: 2263.22 2020: 2345.17 2021: 2590.38 2022: 3075.65 2023: 3341.60
+--------------------
+Sector: Technology
+Company: SAM Holdings
+Net Profit: 2019: 101.39 2020: 101.01 2021: 159.92 2022: 7.15 2023: 33.24
+Parent Equity: 2019: 2885.35 2020: 3467.70 2021: 4596.50 2022: 4603.37 2023: 4606.07
+--------------------
+Sector: Telecommunications
+Company: Petrolimex IT & Telecom
+Net Profit: 2019: 16.85 2020: 13.36 2021: 14.00 2022: 16.03 2023: 13.16
+Parent Equity: 2019: 63.24 2020: 60.85 2021: 63.77 2022: 67.98 2023: 69.22
+--------------------
+Sector: Travel & Leisure
+Company: Saigon Cargo Service
+Net Profit: 2019: 502.18 2020: 464.41 2021: 563.59 2022: 646.15 2023: 498.31
+Parent Equity: 2019: 1004.25 2020: 1015.73 2021: 1249.32 2022: 1433.66 2023: 1338.79
+--------------------
+Sector: Travel & Leisure
+Company: Vietjet Air
+Net Profit: 2019: 3807.35 2020: 68.67 2021: 79.66 2022: -2261.97 2023: 231.41
+Parent Equity: 2019: 14902.83 2020: 14978.40 2021: 16854.21 2022: 14898.29 2023: 15253.14
+--------------------
+Sector: Travel & Leisure
+Company: Dam Sen Water Park
+Net Profit: 2019: 95.24 2020: 40.80 2021: 24.24 2022: 107.74 2023: 112.51
+Parent Equity: 2019: 248.09 2020: 206.11 2021: 182.96 2022: 250.80 2023: 316.89
+--------------------
+Sector: Utilities
+Company: PetroVietnam Gas
+Net Profit: 2019: 12085.65 2020: 7971.79 2021: 8851.81 2022: 15066.39 2023: 11793.10
+Parent Equity: 2019: 49614.53 2020: 49499.68 2021: 52192.73 2022: 61173.56 2023: 65298.62
+--------------------
+Sector: Utilities
+Company: PV Power
+Net Profit: 2019: 2854.89 2020: 2662.67 2021: 2052.15 2022: 2552.93 2023: 1282.94
+Parent Equity: 2019: 29509.31 2020: 31266.59 2021: 31125.38 2022: 33281.45 2023: 34119.43
+--------------------
+Sector: Utilities
+Company: Power Generation Corporation 3
+Net Profit: 2019: 904.09 2020: 1815.26 2021: 3178.92 2022: 2520.11 2023: 1083.72
+Parent Equity: 2019: 12392.25 2020: 14963.99 2021: 17409.15 2022: 17596.72 2023: 15771.13
+--------------------
